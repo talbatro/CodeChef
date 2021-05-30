@@ -1,3 +1,6 @@
+# Code Chef Practice (Beginner) Problem
+# Lucky Four - Find the occurences of 4 in a given integer
+
 T = int(input()) # test cases input
 
 for t in range(T): # iterate over each test case
