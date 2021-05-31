@@ -10,7 +10,7 @@ for i in range(N): # iterate over each sock
     for j in range(i+1, N): # compare with other socks in list
         if socks[i] == socks[j]: # check if colors match
             pair = True 
-            break # once found, break out of loop
+            break # once found, break out of loops
     else:
         continue
     break
